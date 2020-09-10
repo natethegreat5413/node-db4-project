@@ -36,6 +36,7 @@ In addition to the `migrations` and `seeding` scripts, write a data access file 
 
 Organize and name your files anyway you see fit.
 
+
 ## Stretch Problem
 
 Build the following endpoints. Write any additional data access helpers as needed.
